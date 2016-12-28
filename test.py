@@ -53,8 +53,8 @@ if __name__ == '__main__':
     import codecs
     import locale
     import logging
-    logging.basicConfig(level=logging.DEBUG, format="%(asctime)s - %(levelname)s - %(message)s")
-    sys.stdout = codecs.getwriter(locale.getpreferredencoding())(sys.stdout)
+    # logging.basicConfig(level=logging.DEBUG, format="%(asctime)s - %(levelname)s - %(message)s")
+    # sys.stdout = codecs.getwriter(locale.getpreferredencoding())(sys.stdout)
     # service = get_services()['RussianpostRuService']('CG077165712US')
     # service = get_services()['CanparComService']('D100301463601')
     # service = get_services()['ThailandPostCoThService']('RR051974496TH')
