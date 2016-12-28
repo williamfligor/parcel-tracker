@@ -1,7 +1,7 @@
 from setuptools import setup
 setup(
-        name = 'parcel-tracker',
-        packages = ['parcel-tracker'], # this must be the same as the name above
+        name = 'postservices',
+        packages = ['postservices'], # this must be the same as the name above
         version = '0.0.1',
         description = 'Python Library for Package Tracking',
         author = 'William Fligor',
