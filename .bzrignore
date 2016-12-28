@@ -1,0 +1,7 @@
+debian/files
+.ropeproject
+debian/parcel-tracker
+build
+debian/*.log
+debian/*.debhelper
+debian/*.substvars

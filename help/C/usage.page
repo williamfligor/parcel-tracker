@@ -1,0 +1,29 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic"
+      id="usage">
+
+<info>
+  <link type="guide" xref="index#contents"/>
+  <credit type="author">
+    <name>Vsevolod Velichko</name>
+    <email>torkvema@gmail.com</email>
+    <years>2012</years>
+  </credit>
+  <desc>Usage</desc>
+</info>
+
+<title>Usage</title>
+<p><app>Parcel Tracker</app> is an application intended to track your postal items. To track any specific item you should only enter its tracking number and short description. The application will do all the remaining work!</p>
+<p>Look at the main window screen:</p>
+<media type="image" mime="image/png" src="figures/mainwindow.png" />
+<p>At the beginning you have no postal items tracked. In the top input box enter the tracking number and press the "Add" button. You'll be asked for a short item description (for example, <input>"My granny's sweater"</input>) and item will be added to the list:</p>
+<media type="image" mime="image/png" src="figures/mainwindow2.png" />
+<p>After the short period of time the parcel status will be updated and if the tracking information is already available, you'll see it:</p>
+<media type="image" mime="image/png" src="figures/parcelinfo.png" />
+<p><em>Please, note that some services provide the information in local language.</em></p>
+<p>You can add as many postal items as you wish. If you want to remove a shipment from tracking (when it is already successfully delivered), just select it and press <gui style="button">Remove</gui> button.</p>
+<media type="image" mime="image/png" src="figures/manyparcels.png" />
+<p>You can close the window, while application will stay in the indicator panel and silently watch your shipments. When new info will be received you'll see a notification:</p>
+<media type="image" mime="image/png" src="figures/notification.png" />
+
+</page>

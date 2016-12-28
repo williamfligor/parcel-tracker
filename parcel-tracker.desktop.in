@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=Parcel Tracker
+_Comment=ParcelTracker application
+Categories=GNOME;Utility;
+Exec=parcel-tracker
+Icon=/usr/share/parcel-tracker/media/parcel-tracker.svg
+Terminal=false
+Type=Application

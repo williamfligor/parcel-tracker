@@ -1,0 +1,18 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic"
+      id="preferences">
+
+<info>
+  <link type="guide" xref="index#contents"/>
+  <credit type="author">
+    <name>Vsevolod Velichko</name>
+    <email>torkvema@gmail.com</email>
+    <years>2012-2013</years>
+  </credit>
+  <desc>Application preferences</desc>
+</info>
+
+<title>Preferences</title>
+<p>You can configure various options. First of all, the most useful option is the <gui style="input">update period</gui>. <app>Parcel Tracker</app> uses network for its work. It sends requests to different network services to detect your shipment status. There is a delay between two updates named <gui style="input">update period</gui>. The lower this period is, the more network traffic will be used to update the parcel status and the higher would be the load of network services (as the result they can ban you). The default value of <input>300</input> seconds would be enough for anyone.</p>
+<p>Another option you can configure is the list of used services. By default you're strongly recommended don't turn any services off, because you can never be sure which service will provide your shipment status. For example, if you're tracking a shipment from China to Russia your shipment can suddenly appear in Switzerland and tracking info will be received from Swiss Post. However, if you're sure that you will never have anything in some country (Denmark, for example) you can turn that country service off to save your network traffic.</p>
+</page>

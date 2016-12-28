@@ -1,0 +1,75 @@
+<interface>
+  <!-- interface-requires gtk+ 3.0 -->
+  <!-- interface-requires about_parcel_tracker_dialog 1.0 -->
+  <object class="AboutParcelTrackerDialog" id="about_parcel_tracker_dialog">
+    <property name="can_focus">False</property>
+    <property name="border_width">5</property>
+    <property name="icon">../media/parcel-tracker.svg</property>
+    <property name="type_hint">normal</property>
+    <property name="program_name">Parcel Tracker</property>
+    <property name="version">16.12.5</property>
+    <property name="copyright" translatable="yes">Copyright &#169; 2012-2016 Vsevolod Velichko &lt;torkvema@gmail.com&gt;
+Copyright &#169; 2012 Carlos da Costa &lt;c.costa@outlook.com&gt;
+Copyright &#169; 2012-2013 Erik Christiansson &lt;erik@christiansson.net&gt;
+Copyright &#169; 2013 P&#229;l Sollie &lt;sollie@sparkz.no&gt;</property>
+    <property name="website">https://launchpad.net/parcel-tracker</property>
+    <property name="license" translatable="yes"># Copyright &#169; 2012-2016 Vsevolod Velichko &lt;torkvema@gmail.com&gt;
+# Copyright &#169; 2012 Carlos da Costa &lt;c.costa@outlook.com&gt;
+# Copyright &#169; 2012-2013 Erik Christiansson &lt;erik@christiansson.net&gt;
+# Copyright &#169; 2013 P&#229;l Sollie &lt;sollie@sparkz.no&gt;
+# This program is free software: you can redistribute it and/or modify it 
+# under the terms of the GNU General Public License version 3, as published 
+# by the Free Software Foundation.
+# 
+# This program is distributed in the hope that it will be useful, but 
+# WITHOUT ANY WARRANTY; without even the implied warranties of 
+# MERCHANTABILITY, SATISFACTORY QUALITY, or FITNESS FOR A PARTICULAR 
+# PURPOSE.  See the GNU General Public License for more details.
+# 
+# You should have received a copy of the GNU General Public License along 
+# with this program.  If not, see &lt;http://www.gnu.org/licenses/&gt;.
+</property>
+    <property name="authors">Copyright &#169; 2012-2016 Vsevolod Velichko &lt;torkvema@gmail.com&gt;
+Copyright &#169; 2012 Carlos da Costa &lt;c.costa@outlook.com&gt;
+Copyright &#169; 2012-2013 Erik Christiansson &lt;erik@christiansson.net&gt;
+Copyright &#169; 2013 P&#229;l Sollie &lt;sollie@sparkz.no&gt;</property>
+    <property name="logo">../media/parcel-tracker.png</property>
+    <child internal-child="vbox">
+      <object class="GtkBox" id="dialog-vbox1">
+        <property name="visible">True</property>
+        <property name="can_focus">False</property>
+        <property name="orientation">vertical</property>
+        <property name="spacing">2</property>
+        <child internal-child="action_area">
+          <object class="GtkButtonBox" id="dialog-action_area1">
+            <property name="visible">True</property>
+            <property name="can_focus">False</property>
+            <property name="layout_style">end</property>
+          </object>
+          <packing>
+            <property name="expand">False</property>
+            <property name="fill">True</property>
+            <property name="pack_type">end</property>
+            <property name="position">0</property>
+          </packing>
+        </child>
+        <child>
+          <object class="GtkLabel" id="label1">
+            <property name="visible">True</property>
+            <property name="can_focus">False</property>
+            <property name="xpad">30</property>
+            <property name="ypad">5</property>
+            <property name="label" translatable="yes">This application is dedicated to users who often  send and receive postal items. It helps to find the current status of the shipment.
+</property>
+            <property name="wrap">True</property>
+          </object>
+          <packing>
+            <property name="expand">True</property>
+            <property name="fill">True</property>
+            <property name="position">2</property>
+          </packing>
+        </child>
+      </object>
+    </child>
+  </object>
+</interface>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="parcel-tracker">
+    <schema id="net.launchpad.parcel-tracker" path="/net/launchpad/parcel-tracker/">
+        <key name="dhlmultishipping-se" type="b">
+            <default>true</default>
+            <summary>Enable DHL Multishipping service</summary>
+            <description>Whether to use dhlmultishipping.se for search</description>
+        </key>
+        <key name="disabled-searches" type="as">
+            <default>[]</default>
+            <summary>List of search classes to disable</summary>
+            <description>Add search class name to this list to disable custom tracking service</description>
+        </key>
+        <key name="update-period" type="i">
+            <default>300</default>
+            <summary>Service query period</summary>
+            <description>Period of querying each server (in seconds). Please, note that shorter will increase your network traffic and can force some services to ban you.</description>
+        </key>
+        <key name="parcels" type="s">
+            <default>'{}'</default>
+            <summary>Current parcels info state</summary>
+            <description>Saved stated of all parcels tracked. It is the serialized JSON, you should not modify it yourself.</description>
+        </key>
+    </schema>
+</schemalist>

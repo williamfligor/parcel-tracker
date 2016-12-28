@@ -1,0 +1,1218 @@
+parcel-tracker (16.12.5) yakkety; urgency=medium
+
+  * fixed dhl.com
+  * New release.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Fri, 16 Dec 2016 13:07:29 +0300
+
+parcel-tracker (16.12.4) yakkety; urgency=medium
+
+  * merge translations
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Fri, 16 Dec 2016 13:06:56 +0300
+
+parcel-tracker (16.12.3) yakkety; urgency=medium
+
+  * fix canada post
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Thu, 08 Dec 2016 13:44:59 +0300
+
+parcel-tracker (16.12.2) yakkety; urgency=medium
+
+  * Launchpad automatic translations update.
+  * New release.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Wed, 07 Dec 2016 16:11:57 +0300
+
+parcel-tracker (16.12.1) yakkety; urgency=medium
+
+  * Launchpad automatic translations update.
+  * singpost fixed
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Wed, 07 Dec 2016 16:10:48 +0300
+
+parcel-tracker (16.12) yakkety; urgency=medium
+
+  * singpost fixed
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Wed, 07 Dec 2016 16:10:27 +0300
+
+parcel-tracker (16.11.1) yakkety; urgency=medium
+
+  * Launchpad automatic translations update.
+  * New release.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Mon, 14 Nov 2016 15:31:33 +0300
+
+parcel-tracker (16.11) yakkety; urgency=medium
+
+  * support for cyprus post
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Mon, 14 Nov 2016 15:30:17 +0300
+
+parcel-tracker (16.10.2) yakkety; urgency=medium
+
+  * merge translations
+  * port string-prompt from quickly
+  * New release.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Mon, 17 Oct 2016 12:07:07 +0300
+
+parcel-tracker (16.10.1) yakkety; urgency=medium
+
+  * port string-prompt from quickly
+  * add licence
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Mon, 17 Oct 2016 12:06:24 +0300
+
+parcel-tracker (16.10) yakkety; urgency=medium
+
+  * merge translations
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Mon, 17 Oct 2016 12:03:52 +0300
+
+parcel-tracker (16.09.3) xenial; urgency=medium
+
+  * New release.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Fri, 16 Sep 2016 14:10:00 +0300
+
+parcel-tracker (16.09.2ubuntu1) UNRELEASED; urgency=medium
+
+  * Launchpad automatic translations update.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Fri, 16 Sep 2016 14:08:27 +0300
+
+parcel-tracker (16.09.2) xenial; urgency=medium
+
+  * fix usps parser
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Fri, 16 Sep 2016 14:08:27 +0300
+
+parcel-tracker (16.09.1) xenial; urgency=medium
+
+  * New release.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Fri, 09 Sep 2016 11:37:53 +0300
+
+parcel-tracker (16.09ubuntu1) UNRELEASED; urgency=medium
+
+  * yanwen support
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Fri, 09 Sep 2016 11:37:26 +0300
+
+parcel-tracker (16.09) xenial; urgency=medium
+
+  * merge translations
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Fri, 09 Sep 2016 11:37:25 +0300
+
+parcel-tracker (16.08.5) xenial; urgency=medium
+
+  * New release.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Tue, 23 Aug 2016 15:06:49 +0300
+
+parcel-tracker (16.08.4ubuntu1) UNRELEASED; urgency=medium
+
+  * ups: switch to https
+  * fixed redirects handling
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Tue, 23 Aug 2016 15:06:02 +0300
+
+parcel-tracker (16.08.4) xenial; urgency=medium
+
+  * merge translations
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Tue, 23 Aug 2016 15:06:02 +0300
+
+parcel-tracker (16.08.3ubuntu1) UNRELEASED; urgency=medium
+
+  * ups: switch to https
+  * fixed redirects handling
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Tue, 23 Aug 2016 15:05:30 +0300
+
+parcel-tracker (16.08.3) xenial; urgency=medium
+
+  * merge translations
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Tue, 23 Aug 2016 15:05:29 +0300
+
+parcel-tracker (16.08.2) xenial; urgency=medium
+
+  * New release.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Wed, 03 Aug 2016 20:42:05 +0300
+
+parcel-tracker (16.08.1ubuntu1) UNRELEASED; urgency=medium
+
+  * dhl tracking fixed
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Wed, 03 Aug 2016 20:40:32 +0300
+
+parcel-tracker (16.08.1) xenial; urgency=medium
+
+  * merge translations
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Wed, 03 Aug 2016 20:40:32 +0300
+
+parcel-tracker (16.08ubuntu1) UNRELEASED; urgency=medium
+
+  * dhl tracking fixed
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Wed, 03 Aug 2016 20:39:11 +0300
+
+parcel-tracker (16.08) xenial; urgency=medium
+
+  * merge translations
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Wed, 03 Aug 2016 20:39:11 +0300
+
+parcel-tracker (16.06.1) xenial; urgency=medium
+
+  * New release.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Mon, 06 Jun 2016 13:22:44 +0300
+
+parcel-tracker (16.06ubuntu1) UNRELEASED; urgency=medium
+
+  * ups.com parse fixed
+  * japan post location formatting fixed
+  * Launchpad automatic translations update.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Mon, 06 Jun 2016 13:22:23 +0300
+
+parcel-tracker (16.06) xenial; urgency=medium
+
+  * OnTrac support
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Mon, 06 Jun 2016 13:22:22 +0300
+
+parcel-tracker (16.03.1) wily; urgency=medium
+
+  * New release.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Wed, 23 Mar 2016 13:24:03 +0300
+
+parcel-tracker (16.03ubuntu1) UNRELEASED; urgency=medium
+
+  * Launchpad automatic translations update.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Wed, 23 Mar 2016 13:23:31 +0300
+
+parcel-tracker (16.03) wily; urgency=medium
+
+  * added japan post
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Wed, 23 Mar 2016 13:23:31 +0300
+
+parcel-tracker (16.02.9) wily; urgency=medium
+
+  * New release.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Mon, 29 Feb 2016 12:18:05 +0300
+
+parcel-tracker (16.02.8ubuntu1) UNRELEASED; urgency=medium
+
+  * Launchpad automatic translations update.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Mon, 29 Feb 2016 12:17:42 +0300
+
+parcel-tracker (16.02.8) wily; urgency=medium
+
+  * UPS tracking fix
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Mon, 29 Feb 2016 12:17:42 +0300
+
+parcel-tracker (16.02.7ubuntu1) UNRELEASED; urgency=medium
+
+  * Launchpad automatic translations update.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Mon, 29 Feb 2016 12:17:14 +0300
+
+parcel-tracker (16.02.7) wily; urgency=medium
+
+  * UPS tracking fix
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Mon, 29 Feb 2016 12:17:14 +0300
+
+parcel-tracker (16.02.6) wily; urgency=medium
+
+  * New release.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Fri, 19 Feb 2016 15:16:25 +0300
+
+parcel-tracker (16.02.5ubuntu1) UNRELEASED; urgency=medium
+
+  * russian post fixed
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Fri, 19 Feb 2016 15:00:35 +0300
+
+parcel-tracker (16.02.5) wily; urgency=medium
+
+  * merge translations
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Fri, 19 Feb 2016 15:00:35 +0300
+
+parcel-tracker (16.02.4ubuntu1) UNRELEASED; urgency=medium
+
+  * russian post fixed
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Fri, 19 Feb 2016 14:59:56 +0300
+
+parcel-tracker (16.02.4) wily; urgency=medium
+
+  * merge translations
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Fri, 19 Feb 2016 14:59:56 +0300
+
+parcel-tracker (16.02.3) wily; urgency=medium
+
+  * New release.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Tue, 02 Feb 2016 15:26:49 +0300
+
+parcel-tracker (16.02.2) wily; urgency=medium
+
+  * New release.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Tue, 02 Feb 2016 15:25:44 +0300
+
+parcel-tracker (16.02.1ubuntu1) UNRELEASED; urgency=medium
+
+  * Asendia support
+  * Launchpad automatic translations update.
+  * merge translations
+  * fix ppxtrack.com visible name
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Tue, 02 Feb 2016 15:24:43 +0300
+
+parcel-tracker (16.02.1) wily; urgency=medium
+
+  * encode exception
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Tue, 02 Feb 2016 15:24:43 +0300
+
+parcel-tracker (16.02ubuntu1) UNRELEASED; urgency=medium
+
+  * Asendia support
+  * Launchpad automatic translations update.
+  * merge translations
+  * fix ppxtrack.com visible name
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Tue, 02 Feb 2016 15:24:08 +0300
+
+parcel-tracker (16.02) wily; urgency=medium
+
+  * encode exception
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Tue, 02 Feb 2016 15:24:08 +0300
+
+parcel-tracker (15.07.4) vivid; urgency=medium
+
+  * merge with lp
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Mon, 20 Jul 2015 12:20:44 +0300
+
+parcel-tracker (15.07.3) vivid; urgency=medium
+
+  * support gevent+ssl in python <2.7.9
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Mon, 20 Jul 2015 10:11:50 +0300
+
+parcel-tracker (15.07.2) vivid; urgency=medium
+
+  * New release.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Mon, 06 Jul 2015 23:42:58 +0300
+
+parcel-tracker (15.07.1ubuntu1) UNRELEASED; urgency=medium
+
+  * Launchpad automatic translations update.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Mon, 06 Jul 2015 23:42:21 +0300
+
+parcel-tracker (15.07.1) vivid; urgency=medium
+
+  * CorreosChile post
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Mon, 06 Jul 2015 23:42:21 +0300
+
+parcel-tracker (15.07ubuntu1) UNRELEASED; urgency=medium
+
+  * Launchpad automatic translations update.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Mon, 06 Jul 2015 23:41:50 +0300
+
+parcel-tracker (15.07) vivid; urgency=medium
+
+  * CorreosChile post
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Mon, 06 Jul 2015 23:41:49 +0300
+
+parcel-tracker (15.06.1) vivid; urgency=medium
+
+  * New release.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Fri, 19 Jun 2015 13:31:48 +0300
+
+parcel-tracker (15.06ubuntu1) UNRELEASED; urgency=medium
+
+  * Launchpad automatic translations update.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Fri, 19 Jun 2015 13:31:28 +0300
+
+parcel-tracker (15.06) vivid; urgency=medium
+
+  * ppxtrack.com service
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Fri, 19 Jun 2015 13:31:28 +0300
+
+parcel-tracker (15.04.10) vivid; urgency=medium
+
+  * New release.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Wed, 29 Apr 2015 11:52:39 +0300
+
+parcel-tracker (15.04.9ubuntu1) UNRELEASED; urgency=medium
+
+  * ems.post service
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Wed, 29 Apr 2015 11:52:14 +0300
+
+parcel-tracker (15.04.9) vivid; urgency=medium
+
+  * fix sslcontext
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Wed, 29 Apr 2015 11:52:14 +0300
+
+parcel-tracker (15.04.8ubuntu1) UNRELEASED; urgency=medium
+
+  * ems.post service
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Wed, 29 Apr 2015 11:51:52 +0300
+
+parcel-tracker (15.04.8) vivid; urgency=medium
+
+  * fix sslcontext
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Wed, 29 Apr 2015 11:51:51 +0300
+
+parcel-tracker (15.04.7) vivid; urgency=medium
+
+  * fix poste.it service
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Tue, 28 Apr 2015 17:53:51 +0300
+
+parcel-tracker (15.04.6) vivid; urgency=medium
+
+  * fix poste.it service
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Tue, 28 Apr 2015 17:53:12 +0300
+
+parcel-tracker (15.04.5) vivid; urgency=medium
+
+  * New release.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Sat, 25 Apr 2015 03:41:29 +0300
+
+parcel-tracker (15.04.4ubuntu1) UNRELEASED; urgency=medium
+
+  * Launchpad automatic translations update.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Sat, 25 Apr 2015 03:41:03 +0300
+
+parcel-tracker (15.04.4) vivid; urgency=medium
+
+  * Poste Italiane
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Sat, 25 Apr 2015 03:41:03 +0300
+
+parcel-tracker (15.04.3ubuntu1) UNRELEASED; urgency=medium
+
+  * Launchpad automatic translations update.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Sat, 25 Apr 2015 03:40:37 +0300
+
+parcel-tracker (15.04.3) vivid; urgency=medium
+
+  * Poste Italiane
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Sat, 25 Apr 2015 03:40:37 +0300
+
+parcel-tracker (15.04.2) utopic; urgency=medium
+
+  * New release.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Tue, 14 Apr 2015 15:07:39 +0300
+
+parcel-tracker (15.04.1ubuntu1) UNRELEASED; urgency=medium
+
+  * Launchpad automatic translations update.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Tue, 14 Apr 2015 15:07:08 +0300
+
+parcel-tracker (15.04.1) utopic; urgency=medium
+
+  * transgroup service
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Tue, 14 Apr 2015 15:07:07 +0300
+
+parcel-tracker (15.04ubuntu1) UNRELEASED; urgency=medium
+
+  * Launchpad automatic translations update.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Tue, 14 Apr 2015 15:06:26 +0300
+
+parcel-tracker (15.04) utopic; urgency=medium
+
+  * transgroup service
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Tue, 14 Apr 2015 15:06:25 +0300
+
+parcel-tracker (15.02.3) utopic; urgency=medium
+
+  * New release.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Sun, 15 Feb 2015 14:06:26 +0300
+
+parcel-tracker (15.02.2ubuntu1) UNRELEASED; urgency=medium
+
+  * ctt.pt fix
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Sun, 15 Feb 2015 14:05:43 +0300
+
+parcel-tracker (15.02.2) utopic; urgency=medium
+
+  * merge translations
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Sun, 15 Feb 2015 14:05:42 +0300
+
+parcel-tracker (15.02.1) utopic; urgency=medium
+
+  * New release.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Fri, 13 Feb 2015 23:46:15 +0300
+
+parcel-tracker (15.02ubuntu1) UNRELEASED; urgency=medium
+
+  * i-parcel support
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Fri, 13 Feb 2015 23:45:39 +0300
+
+parcel-tracker (15.02) utopic; urgency=medium
+
+  * merge translations
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Fri, 13 Feb 2015 23:45:39 +0300
+
+parcel-tracker (15.01.1) utopic; urgency=medium
+
+  * New release.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Tue, 13 Jan 2015 15:35:59 +0300
+
+parcel-tracker (15.01ubuntu1) UNRELEASED; urgency=medium
+
+  * Launchpad automatic translations update.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Tue, 13 Jan 2015 15:35:17 +0300
+
+parcel-tracker (15.01) utopic; urgency=medium
+
+  * fix canada post parser
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Tue, 13 Jan 2015 15:35:17 +0300
+
+parcel-tracker (14.11.4) utopic; urgency=medium
+
+  * New release.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Sat, 22 Nov 2014 23:32:02 +0300
+
+parcel-tracker (14.11.3) utopic; urgency=medium
+
+  * New release.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Sat, 22 Nov 2014 23:31:35 +0300
+
+parcel-tracker (14.11.2ubuntu1) UNRELEASED; urgency=medium
+
+  * translations update
+  * Fix dhl.de parser
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Sat, 22 Nov 2014 23:30:00 +0300
+
+parcel-tracker (14.11.2) utopic; urgency=medium
+
+  * Hermes world support
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Sat, 22 Nov 2014 23:30:00 +0300
+
+parcel-tracker (14.11.1) utopic; urgency=medium
+
+  * New release.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Mon, 03 Nov 2014 12:29:07 +0300
+
+parcel-tracker (14.11ubuntu1) UNRELEASED; urgency=medium
+
+  * Fix for USPS by josejuan05
+  * Launchpad automatic translations update.
+  * Option to start program minimized
+  * Launchpad automatic translations update.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Mon, 03 Nov 2014 12:25:13 +0300
+
+parcel-tracker (14.11) utopic; urgency=medium
+
+  * gevent fixes for utopic (gevent 1.0)
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Mon, 03 Nov 2014 12:25:13 +0300
+
+parcel-tracker (14.06.1) trusty; urgency=medium
+
+  * New release.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Wed, 11 Jun 2014 13:10:06 +0400
+
+parcel-tracker (14.06ubuntu1) UNRELEASED; urgency=medium
+
+  * unneeded import removed
+  * Launchpad automatic translations update.
+  * Launchpad automatic translations update.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Wed, 11 Jun 2014 13:08:31 +0400
+
+parcel-tracker (14.06) trusty; urgency=medium
+
+  * Canpar.com service
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Wed, 11 Jun 2014 13:08:30 +0400
+
+parcel-tracker (14.02.1) saucy; urgency=low
+
+  * New release.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Wed, 26 Feb 2014 23:30:15 +0400
+
+parcel-tracker (14.02ubuntu1) UNRELEASED; urgency=low
+
+  * Launchpad automatic translations update.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Wed, 26 Feb 2014 23:26:57 +0400
+
+parcel-tracker (14.02) saucy; urgency=low
+
+  * Ctt.pt fix
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Wed, 26 Feb 2014 23:26:57 +0400
+
+parcel-tracker (14.01.2) saucy; urgency=low
+
+  * Ctt.pt service
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Thu, 16 Jan 2014 10:06:13 +0400
+
+parcel-tracker (14.01.1) saucy; urgency=low
+
+  * New release.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Thu, 16 Jan 2014 02:25:01 +0400
+
+parcel-tracker (14.01ubuntu1) UNRELEASED; urgency=low
+
+  * Launchpad automatic translations update.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Thu, 16 Jan 2014 02:24:27 +0400
+
+parcel-tracker (14.01) saucy; urgency=low
+
+  * Correos de México service
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Thu, 16 Jan 2014 02:24:26 +0400
+
+parcel-tracker (13.11) saucy; urgency=low
+
+  * Belpost EMS support
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Tue, 05 Nov 2013 18:58:49 +0400
+
+parcel-tracker (13.10.8) saucy; urgency=low
+
+  * New release.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Thu, 31 Oct 2013 11:29:54 +0400
+
+parcel-tracker (13.10.7ubuntu1) UNRELEASED; urgency=low
+
+  * removed 'frames' appeared in repo by accident
+  * Launchpad automatic translations update.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Thu, 31 Oct 2013 11:29:17 +0400
+
+parcel-tracker (13.10.7) saucy; urgency=low
+
+  * New implementation of Posten.se by Erik Christiansson
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Thu, 31 Oct 2013 11:29:17 +0400
+
+parcel-tracker (13.10.6) saucy; urgency=low
+
+  * New release.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Sun, 27 Oct 2013 03:13:58 +0400
+
+parcel-tracker (13.10.5ubuntu1) UNRELEASED; urgency=low
+
+  * Highlight indicator when new parcel information appears
+  * Note for r208: Andrey Yurkovsky is the author, not Yurkovich
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Sun, 27 Oct 2013 03:11:51 +0400
+
+parcel-tracker (13.10.5) saucy; urgency=low
+
+  * Translations merge
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Sun, 27 Oct 2013 03:11:51 +0400
+
+parcel-tracker (13.10.4) saucy; urgency=low
+
+  * New release.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Thu, 24 Oct 2013 22:28:54 +0400
+
+parcel-tracker (13.10.3ubuntu1) UNRELEASED; urgency=low
+
+  * Added icons by Andrey Yurkovich. License isn't put anywhere yet, but
+    it's CC-BY-SA 3.0
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Thu, 24 Oct 2013 22:28:20 +0400
+
+parcel-tracker (13.10.3) saucy; urgency=low
+
+  * Merge translations.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Thu, 24 Oct 2013 22:28:19 +0400
+
+parcel-tracker (13.10.2) saucy; urgency=low
+
+  * USPS fix
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Tue, 22 Oct 2013 10:42:36 +0400
+
+parcel-tracker (13.10.1) raring; urgency=low
+
+  * New release.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Wed, 16 Oct 2013 01:57:33 +0400
+
+parcel-tracker (13.10ubuntu1) UNRELEASED; urgency=low
+
+  * Launchpad automatic translations update.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Wed, 16 Oct 2013 01:56:59 +0400
+
+parcel-tracker (13.10) raring; urgency=low
+
+  * Belpochta support
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Wed, 16 Oct 2013 01:56:58 +0400
+
+parcel-tracker (13.09.3) raring; urgency=low
+
+  * New release.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Tue, 03 Sep 2013 00:48:11 +0400
+
+parcel-tracker (13.09.2ubuntu1) UNRELEASED; urgency=low
+
+  * Launchpad automatic translations update.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Tue, 03 Sep 2013 00:47:43 +0400
+
+parcel-tracker (13.09.2) raring; urgency=low
+
+  * Brittish royal mail support
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Tue, 03 Sep 2013 00:47:42 +0400
+
+parcel-tracker (13.09.1) raring; urgency=low
+
+  * New release.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Mon, 02 Sep 2013 00:31:58 +0400
+
+parcel-tracker (13.09ubuntu1) UNRELEASED; urgency=low
+
+  * Launchpad automatic translations update.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Mon, 02 Sep 2013 00:30:16 +0400
+
+parcel-tracker (13.09) raring; urgency=low
+
+  * Thailand Post support
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Mon, 02 Sep 2013 00:30:16 +0400
+
+parcel-tracker (13.07.3) raring; urgency=low
+
+  * New release.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Fri, 26 Jul 2013 18:49:03 +0400
+
+parcel-tracker (13.07.2ubuntu1) UNRELEASED; urgency=low
+
+  * Launchpad automatic translations update.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Fri, 26 Jul 2013 18:48:07 +0400
+
+parcel-tracker (13.07.2) raring; urgency=low
+
+  * New rewritten RussianPost.ru implementation
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Fri, 26 Jul 2013 18:48:06 +0400
+
+parcel-tracker (13.07.1) raring; urgency=low
+
+  * New release.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Sun, 07 Jul 2013 01:12:48 +0400
+
+parcel-tracker (13.07ubuntu1) UNRELEASED; urgency=low
+
+  * DHL active tracking service by Erik Christiansson.
+  * Launchpad automatic translations update.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Sun, 07 Jul 2013 01:10:23 +0400
+
+parcel-tracker (13.07) raring; urgency=low
+
+  * TNT service by Erik Christiansson.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Sun, 07 Jul 2013 01:10:23 +0400
+
+parcel-tracker (13.06.5) raring; urgency=low
+
+  * New release.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Wed, 26 Jun 2013 12:42:42 +0400
+
+parcel-tracker (13.06.4ubuntu1) UNRELEASED; urgency=low
+
+  * Launchpad automatic translations update.
+  * FedEx tracker update by Erik Christiansson.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Wed, 26 Jun 2013 12:41:44 +0400
+
+parcel-tracker (13.06.4) raring; urgency=low
+
+  * Posten.no service by Pål Sollie
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Wed, 26 Jun 2013 12:41:44 +0400
+
+parcel-tracker (13.06.3ubuntu1) UNRELEASED; urgency=low
+
+  * Launchpad automatic translations update.
+  * FedEx tracker update by Erik Christiansson.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Wed, 26 Jun 2013 12:37:50 +0400
+
+parcel-tracker (13.06.3) raring; urgency=low
+
+  * Posten.no service by Pål Sollie
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Wed, 26 Jun 2013 12:37:50 +0400
+
+parcel-tracker (13.06.2) raring; urgency=low
+
+  * GLS Group service by Erik Christiansson.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Wed, 19 Jun 2013 14:10:25 +0400
+
+parcel-tracker (13.06.1) raring; urgency=low
+
+  * New release.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Tue, 18 Jun 2013 21:07:47 +0400
+
+parcel-tracker (13.06ubuntu1) UNRELEASED; urgency=low
+
+  * Launchpad automatic translations update.
+  * Launchpad automatic translations update.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Tue, 18 Jun 2013 21:04:50 +0400
+
+parcel-tracker (13.06) raring; urgency=low
+
+  * DhlCom implementation by Erik Christiansson.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Tue, 18 Jun 2013 21:04:50 +0400
+
+parcel-tracker (13.03.13) raring; urgency=low
+
+  * Merge translations with upstream.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Mon, 25 Mar 2013 15:42:45 +0400
+
+parcel-tracker (13.03.12) raring; urgency=low
+
+  * Added .ropeproject to ignores
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Mon, 25 Mar 2013 15:39:51 +0400
+
+parcel-tracker (13.03.11ubuntu1) UNRELEASED; urgency=low
+
+  * SingPost.com support.
+  * Make services import more pretty.
+  * Launchpad automatic translations update.
+  * Launchpad automatic translations update.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Mon, 25 Mar 2013 15:37:52 +0400
+
+parcel-tracker (13.03.11) raring; urgency=low
+
+  * Remove old webkit from dependencies
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Mon, 25 Mar 2013 15:37:51 +0400
+
+parcel-tracker (12.12.1) quantal; urgency=low
+
+  * New release.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Sat, 01 Dec 2012 23:26:22 +0400
+
+parcel-tracker (12.12ubuntu1) UNRELEASED; urgency=low
+
+  * Merge with launchpad translations
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Sat, 01 Dec 2012 23:24:01 +0400
+
+parcel-tracker (12.12) quantal; urgency=low
+
+  * Correos.es service
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Sat, 01 Dec 2012 23:24:01 +0400
+
+parcel-tracker (12.11) quantal; urgency=low
+
+  * Settings dialog fix.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Sun, 25 Nov 2012 19:45:57 +0400
+
+parcel-tracker (12.10.3) quantal; urgency=low
+
+  * New release.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Tue, 23 Oct 2012 19:29:23 +0400
+
+parcel-tracker (12.10.2ubuntu1) UNRELEASED; urgency=low
+
+  * Migrating with the new quickly.   Fix for the work on quantal.
+  * Pre-upgrade checkpoint
+  * Launchpad automatic translations update.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Tue, 23 Oct 2012 19:27:34 +0400
+
+parcel-tracker (12.10.2) quantal; urgency=low
+
+  * Remove fontconfig from history.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Tue, 23 Oct 2012 19:27:34 +0400
+
+parcel-tracker (12.10.1ubuntu1) UNRELEASED; urgency=low
+
+  * Pre-upgrade checkpoint
+  * Launchpad automatic translations update.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Tue, 23 Oct 2012 19:24:42 +0400
+
+parcel-tracker (12.10.1) quantal; urgency=low
+
+  * Migrating with the new quickly.   Fix for the work on quantal.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Tue, 23 Oct 2012 19:24:42 +0400
+
+parcel-tracker (12.10) precise; urgency=low
+
+  * Canada Post service
+  * Launchpad automatic translations update.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Sun, 14 Oct 2012 01:22:24 +0400
+
+parcel-tracker (12.09.6) precise; urgency=low
+
+  * Final refactoring, let the list of services be fully generated (no
+    need to modify UI or schema).
+  * Separating services from the main code. Autodetection of the
+    services list.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Tue, 25 Sep 2012 12:36:34 +0400
+
+parcel-tracker (12.09.5ubuntu1) precise; urgency=low
+
+  * 
+
+ -- Vsevolod Velichko <torkve@yaroot-46>  Tue, 25 Sep 2012 12:35:12 +0400
+
+parcel-tracker (12.09.5) precise; urgency=low
+
+  * DHL Multishipping service by Erik Christiansson
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Mon, 24 Sep 2012 19:02:04 +0400
+
+parcel-tracker (12.09.4) precise; urgency=low
+
+  * New release.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Fri, 21 Sep 2012 22:15:22 +0400
+
+parcel-tracker (12.09.3) precise; urgency=low
+
+  * Forgotten to add service itself.
+  * Plain Schenker.nu service by Erik Christiansson
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Fri, 21 Sep 2012 20:25:02 +0400
+
+parcel-tracker (12.09.2) precise; urgency=low
+
+  * Schenker.nu parser by Erik Christiansson
+  * Launchpad automatic translations update.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Tue, 18 Sep 2012 20:11:54 +0400
+
+parcel-tracker (12.09.1) precise; urgency=low
+
+  * New release.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Mon, 10 Sep 2012 21:47:40 +0400
+
+parcel-tracker (12.09) precise; urgency=low
+
+  * Little fix for RussianPost
+  * Posten.se service by Erik Christiansson
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Mon, 10 Sep 2012 21:38:13 +0400
+
+parcel-tracker (12.08) precise; urgency=low
+
+  * Add Carlos da Costa to AUTHORS list.
+  * Merge of Carlos da Costa fix for Correios.com service.
+  * Added correios.com support
+  * Launchpad automatic translations update.
+  * Launchpad automatic translations update.
+  * Launchpad automatic translations update.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Sun, 26 Aug 2012 00:39:20 +0400
+
+parcel-tracker (12.07.22) precise; urgency=low
+
+  * Merge translations.
+  * Activate add_parcel on Enter in input field
+  * Added UPS to available services
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Tue, 24 Jul 2012 16:31:06 +0400
+
+parcel-tracker (12.07.21) precise; urgency=low
+
+  * New release.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Sat, 14 Jul 2012 20:21:51 +0400
+
+parcel-tracker (12.07.20) precise; urgency=low
+
+  * New release.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Sat, 14 Jul 2012 20:20:33 +0400
+
+parcel-tracker (12.07.19) precise; urgency=low
+
+  * Technical commit
+  * Creating ubuntu package
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Fri, 13 Jul 2012 22:31:56 +0400
+
+parcel-tracker (12.07.18) precise; urgency=low
+
+  * Testing patch for the quickly. Updated file encoding for python
+    scripts.
+  * License update
+  * Launchpad automatic translations update.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Fri, 13 Jul 2012 22:30:53 +0400
+
+parcel-tracker (12.07.17) precise; urgency=low
+
+  * Testing patch for the quickly. Updated file encoding for python
+    scripts.
+  * License update
+  * Launchpad automatic translations update.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Fri, 13 Jul 2012 22:11:50 +0400
+
+parcel-tracker (12.07.16) precise; urgency=low
+
+  * Merge with translations
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Wed, 11 Jul 2012 10:02:32 +0400
+
+parcel-tracker (12.07.15) precise; urgency=low
+
+  * Preferences dialog bugfix.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Wed, 11 Jul 2012 10:00:18 +0400
+
+parcel-tracker (12.07.14ubuntu2) precise; urgency=low
+
+  * 
+
+ -- Vsevolod Velichko <torkve@yaroot-46>  Wed, 11 Jul 2012 09:56:10 +0400
+
+parcel-tracker (12.07.14ubuntu1) precise; urgency=low
+
+  * 
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Wed, 11 Jul 2012 02:17:23 +0400
+
+parcel-tracker (12.07.14) precise; urgency=low
+
+  * Spelling in schema fix
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Wed, 11 Jul 2012 02:16:21 +0400
+
+parcel-tracker (12.07.13ubuntu1) precise; urgency=low
+
+  * 
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Wed, 11 Jul 2012 02:14:16 +0400
+
+parcel-tracker (12.07.13) precise; urgency=low
+
+  * Ukrposhta.com service and DHL Germany
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Wed, 11 Jul 2012 02:09:17 +0400
+
+parcel-tracker (12.07.12ubuntu1) precise; urgency=low
+
+  * 
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Tue, 10 Jul 2012 14:22:58 +0400
+
+parcel-tracker (12.07.12) precise; urgency=low
+
+  * Build for extras.u.c using patched quickly templatetools
+  * Creating ubuntu package
+  * Launchpad automatic translations update.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Tue, 10 Jul 2012 14:16:50 +0400
+
+parcel-tracker (12.07.11ubuntu1) precise; urgency=low
+
+  * 
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Tue, 10 Jul 2012 14:11:24 +0400
+
+parcel-tracker (12.07.11) precise; urgency=low
+
+  * Merge with translations.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Sun, 08 Jul 2012 16:26:42 +0400
+
+parcel-tracker (12.07.10) precise; urgency=low
+
+  * Revert UPS service. It seems to be broken now.
+  * UPS service
+  * Added Fedex service.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Sun, 08 Jul 2012 16:19:12 +0400
+
+parcel-tracker (12.07.9ubuntu1) precise; urgency=low
+
+  * 
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Sun, 08 Jul 2012 16:15:31 +0400
+
+parcel-tracker (12.07.9) precise; urgency=low
+
+  * Merge translations.
+  * New release prepared
+  * Usps.com service
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Sun, 08 Jul 2012 01:33:03 +0400
+
+parcel-tracker (12.07.8) precise; urgency=low
+
+  * Merge translations.
+  * New release prepared
+  * Usps.com service
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Sun, 08 Jul 2012 01:32:39 +0400
+
+parcel-tracker (12.07.7) precise; urgency=low
+
+  * Usps.com service
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Sun, 08 Jul 2012 01:29:10 +0400
+
+parcel-tracker (12.07.6ubuntu1) precise; urgency=low
+
+  * 
+
+ -- Vsevolod Velichko <torkve@yaroot-46>  Fri, 06 Jul 2012 09:15:26 +0400
+
+parcel-tracker (12.07.6) precise; urgency=low
+
+  * Custom refresh. Update indicator.
+  * Fetch parcel info immediately after insert to list.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Fri, 06 Jul 2012 09:14:33 +0400
+
+parcel-tracker (12.07.5) precise; urgency=low
+
+  * Ok, I've found description setting in setup.py. However it seems
+    that there's no way to protect debian/copyright from being broken by
+    quickly.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Fri, 06 Jul 2012 01:52:18 +0400
+
+parcel-tracker (12.07.3) precise; urgency=low
+
+  * debian/copyright fix. Description in debian/control fix.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Fri, 06 Jul 2012 01:36:40 +0400
+
+parcel-tracker (12.07.2) precise; urgency=low
+
+  * New icon. About fixed a little.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Fri, 06 Jul 2012 01:33:25 +0400
+
+parcel-tracker (12.07.1) precise; urgency=low
+
+  * New release.
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Fri, 06 Jul 2012 00:57:38 +0400
+
+parcel-tracker (12.07) precise; urgency=low
+
+  * Creating ubuntu package
+  * Spelling refixed.
+  * Spelling fixes
+  * Notifications. Help. Fixes.
+  * Creating ubuntu package
+  * Main window preview. Preferences. Post services request library.
+  * Experiments with settings
+
+ -- Vsevolod Velichko <torkvema@gmail.com>  Fri, 06 Jul 2012 00:54:40 +0400
+
+parcel-tracker (0.1) precise; urgency=low
+
+  [ Vsevolod Velichko ]
+  * Initial release.
+
+  [ root ]
+
+  [ Vsevolod Velichko ]
+
+ -- Vsevolod Velichko <torkve@gmail.com>  Fri, 06 Jul 2012 00:21:06 +0400

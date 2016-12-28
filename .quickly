@@ -1,0 +1,5 @@
+project = parcel-tracker
+version = 12.08.1
+template = ubuntu-application
+ppa = torkvemada
+lp_id = parcel-tracker
